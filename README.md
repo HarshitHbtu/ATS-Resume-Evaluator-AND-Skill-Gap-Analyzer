@@ -1,4 +1,4 @@
-# 📄 Resume ATS Score Checker
+# 📄 Resume Score Generator
 
 An web application that analyzes a resume against a Job Description and generates an **ATS compatibility score** using NLP and semantic similarity.
 
