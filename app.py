@@ -16,7 +16,7 @@ model = load_model()
 
 st.set_page_config(page_title="Resume ATS Score", layout="wide")
 
-st.title("📄 AI Resume ATS Score Checker")
+st.title("📄 Resume ATS Score Checker")
 
 resume_file = st.file_uploader(
     "Upload Resume",
