@@ -1,0 +1,1 @@
+streamlit nltk sentence-transformers scikit-learn pandas 
